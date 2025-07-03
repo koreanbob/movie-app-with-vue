@@ -1,5 +1,7 @@
 # movie-app-with-vuejs
 
+Simple movie management app with VueJs
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
